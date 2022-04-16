@@ -16,5 +16,5 @@ class Asking():
     def calculate(self , x ,n ):
         return (2*(x - n)+1)       #--> the formula
         
-Asking()   #calling the class
+Asking()   #calling the class  
     
